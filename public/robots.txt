@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Exclude search engines from raw admin routing to protect your dashboard
+Disallow: /admin/
+Disallow: /admin
+
+# Sitemap link for Google Search Console & automatic crawler discovery
+Sitemap: https://conversionfoxx.com/sitemap.xml

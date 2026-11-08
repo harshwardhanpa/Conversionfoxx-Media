@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to fix the disappearing client logo section located directly above The Revenue Engine by replacing fragile viewport-based opacity toggling with persistent, high-performance static rendering and CSS transitions.",
+  "updatedAt":  "2026-11-08T05:45:51.976897257Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
